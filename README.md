@@ -97,3 +97,4 @@ XUGOU 采用现代化的系统架构，包含以下组件：
 ## 🔥 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zaunist/xugou&type=Date)](https://www.star-history.com/#zaunist/xugou&Date)
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
